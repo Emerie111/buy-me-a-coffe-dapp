@@ -1,15 +1,1 @@
-# Basic Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This is the contract address of the dapp launced on Rinkeby testnet : 0x3A6b90343260C2bd766f31c36906Bd1866A7648e. The frontend is can be seen on this link: https://buy-me-a-coffe-dapp.emerie101.repl.co/
